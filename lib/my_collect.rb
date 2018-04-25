@@ -11,6 +11,4 @@ def my_collect(pets)
 end
 else
   puts "All the pets are gone!"
-
-end
 end
