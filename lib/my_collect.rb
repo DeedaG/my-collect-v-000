@@ -10,5 +10,5 @@ def my_collect(pets)
   end
 end
 else
-  puts "All the pets are loose!"
+  puts "All of the pets are missing!"
 end
