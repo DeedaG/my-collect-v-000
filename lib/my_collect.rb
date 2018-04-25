@@ -1,5 +1,5 @@
 
 
 def my_collect(collection) do |item|
-  item.split(" ").length
+  item.split(" ").upcase
 end
