@@ -6,5 +6,7 @@ def my_collect(pets)
   while pets.size < 4 do |pet|
   pet.split(" ").upcase
   end
+else
+  
 end
 end
