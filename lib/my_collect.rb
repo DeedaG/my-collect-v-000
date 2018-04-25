@@ -11,5 +11,5 @@ def my_collect(collection)
     item << yield(collection[i])
     i += 1
   end
-  collection
+  item
 end
