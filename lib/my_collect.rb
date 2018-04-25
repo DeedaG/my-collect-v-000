@@ -1,5 +1,5 @@
 
 
-def my_collect(collection) do |name|
+def my_collect(collection) do |item|
   name.split(" ").first
 end
