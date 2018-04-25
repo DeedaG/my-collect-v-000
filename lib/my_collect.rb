@@ -7,3 +7,4 @@ def my_collect(pets)
   item.split(" ").upcase
   end
 end
+end
