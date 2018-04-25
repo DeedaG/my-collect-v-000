@@ -8,6 +8,7 @@ def my_collect(pets)
   pet.split(" ").upcase
   counter += 1
   end
+end
 else
   puts "All the pets are gone!"
 
