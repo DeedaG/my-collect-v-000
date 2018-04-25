@@ -9,6 +9,7 @@ def my_collect(pets)
   counter += 1
   end
 else
+  puts "All the pets are gone!"
 
 end
 end
